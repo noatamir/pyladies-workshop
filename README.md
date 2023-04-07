@@ -13,8 +13,12 @@ Here are some things you could choose to work on:
 - The [needs tests](https://github.com/pandas-dev/pandas/issues?q=is%3Aopen+label%3A%22needs+tests%22+sort%3Aupdated-desc) label is also a good place to start exploring it you are comfortable with tests. But be warned that some tests are trickier than others, so it could be wise to ask questions about the area of the code you are deciding to work on before you begin.
 - [any other issue from the pandas-dev/pandas issue tracker](https://github.com/pandas-dev/pandas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) (not recommended for first-timers): can be challenging and time-consuming
 
+Please comment on the issue that you are working on it, if you pick one of the issues in this repository.
+
 Remember - it's OK to push work that isn't perfect or finished, or that you're not 100% sure of!
 
 Please visit and use [this tracking spreadsheet](https://docs.google.com/spreadsheets/d/13pyOTtRNS6NVhEp3okcCf0dEhLaIB6JQf6Q-LiNgtmU/edit?usp=sharing) throughout the session to track your progress.
 
 In general, please refer to the development version of the [contributing guide](https://pandas.pydata.org/pandas-docs/dev/development/contributing.html) for pandas.
+
+__Some pandas issues we are referencing in the issue tracker in this repository might be assigned to @noatamir or @phofl. You can ignore these assignments, we block the issues so that they won't ge solved by others before our sprint.__
